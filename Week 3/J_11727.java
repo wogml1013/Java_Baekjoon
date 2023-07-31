@@ -14,4 +14,4 @@ public class J_11727 {
 
         System.out.println(arr[n]);
     }
-}
+}   
